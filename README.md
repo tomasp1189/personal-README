@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-I don't enjoy describing myself, I would much rather you get to know me by spending time together or through long conversations (which I've been told I basically can't help myself from having 🤣). I would trust the team more than myself to give an accurate account of what it’s like to work and interact with me which I guess already says a lot about me. But alas, I’ve been requested to provide the readme myself so here it is.
+I'm not a fan of describing myself – I'd much rather you get to know me through spending time together or engaging in lengthy conversations (which, apparently, I just can't help myself from having 🤣). I trust the team more than myself to provide an accurate account of what it’s like to work and interact with me, which I guess says a lot about me already. But alas, I’ve been asked to provide this readme myself, so here goes.
 
 <!-- ABOUT THE PROJECT -->
 
@@ -10,11 +10,11 @@ I don't enjoy describing myself, I would much rather you get to know me by spend
 
 <img src="/img/me.jpeg" alt="Me" width="300px">
 
-I was born in Argentina and raised in Uruguay. Never really felt at home anywhere but I've always had a knack to quickly adapt. I currently live in Alicante, Spain.
+Born in Argentina and raised in Uruguay, I've never really felt at home anywhere but have always had a knack for adapting quickly. Currently, I live in Alicante, Spain.
 
-I'd be hard pressed to choose one thing I love to do above others. Maybe its my ADHD, maybe I'm just very curious. Let's just say that I really love learning and trying new things.
+Choosing one thing I love to do above others is tough. Maybe it's my ADHD, or perhaps I'm just really curious. Let's just say that I adore learning and trying new things.
 
-Things I've tried and kept doing:
+Things I've tried and stuck with:
 
 - Singing and Playing guitar
 - Hiking
@@ -25,8 +25,9 @@ Things I've tried and kept doing:
 - HIIT
 - Waking up at 5am (even on weekends)
 
-I'm a father of two beautiful kids (you'll eventually see them pop in the middle of a meeting). I'm fully responsible for them (their mom lives in another country) so you'll notice that sometimes my availability is a bit hectic but I'm very flexible and I try my best to make it work 👨‍👧‍👦.
+I'm a father of two beautiful kids (you'll likely see them pop up during a meeting). Being fully responsible for them (their mom lives in another country) means my availability can sometimes be hectic, but I'm flexible and do my best to make it work 👨‍👧‍👦.
 
+If I had to choose my best quality, it would be a toss-up between perseverance and a high-spirited attitude.
 ### Built With
 
 - Sunny disposition
@@ -42,15 +43,15 @@ I'm a father of two beautiful kids (you'll eventually see them pop in the middle
 
 ## Getting Started
 
-Simply hit me up to start a conversation, or don't I'll eventually start one. I'm always up for a chat, the subject's not really important as long as we get to talk.
+To start a conversation, just hit me up – or don't. I'll likely start one anyway. I'm always up for a chat, and the subject isn't really important as long as we get to talk.
 
 ### Prerequisites
 
-None. Ask anybody. I'm hands down the easiest person to start a conversations with in the company.
+None. Ask anybody. I'm probably the easiest person to strike up a conversation with in the company.
 
 ### Installation
 
-Choose any messaging or video-call app from the follwing list and you'll be ready to get started.
+Choose any messaging or video-call app from the following list, and you'll be ready to get started:
 
 - Discord
 - Meet
@@ -71,39 +72,37 @@ I guess I've accumulated enough experience not only to be proficient in coding b
 - My only expectation is that you give your best effort.
 - I strive to meet with my team members individually at least once a week for a sync, and I'm open to pairing sessions as often as needed, provided it doesn't hinder my ability to fulfill my responsibilities to other team members and the company.
 - My goal is for you to enjoy your job, and I'll do my best to ensure you're satisfied with the work you're doing. That being said, I have blind spots, so I encourage you to make an effort to communicate your needs. I'll do my utmost to meet those needs, or at the very least, manage expectations and find a compromise that works for both of us.
-- I am not a dictator; decisions will be made collectively as a team, and we need to trust each person's expertise in their respective area.
+- Decisions are made collectively as a team, and we need to trust each person's expertise in their respective area – I'm not a dictator.
 - As the team leader, I've got your back. We'll celebrate our successes together, and if things go south, I'll step up and handle the consequences.
 
 ### WEB3 Research and Development
 
-Life has blessed me once again, as it often does, by giving me the opportunity to lead the Web3 efforts within the company. While this doesn't make me an expert, it does mean that I'm currently dedicating most of my time to researching and coding in this area. Rest assured, I'll strive to achieve a high level of expertise in the process.
-
-Life has blessed me, as I often feel it does, and i've been given the opportunity to lead the Web3 efforts in the company. By no means does this make me an expert it simply means this is what I currently spend most time investigating and coding and I will strive to reach a level of expertise.
+I've been fortunate enough to be given the opportunity to lead the Web3 efforts within the company. While I'm not an expert (yet!), I'm dedicating most of my time to researching, learning, and coding in this area. Rest assured, I'll work hard to reach a high level of expertise in the process.
 
 ### Colleague
 
-I'm super passionate about my work and love seeing others fired up about theirs too. If you ever need to bounce ideas off someone, just know I'm always up for being your partner in crime.
+I'm truly passionate about my work, and I love seeing others just as fired up about what they do. If you ever need someone to bounce ideas off of, know that I'm always up for being your partner in crime and creative collaborator.
 
 <!-- ROADMAP -->
 
 ## Roadmap
 
 - [ ] Professional
+  - [x] Obtain my Engineering Degree
   - [x] Senior Front End Engineer (Been there, done that!)
   - [ ] Team Lead (Climbing the ladder, still learning)
   - [ ] Web3 Engineer (The future is now, and I'm on it!)
 - [ ] Personal
+  - [x] Join the 5am club (Early bird gets the worm)
+  - [x] Sing and play the guitar in front of other people
   - [ ] Father (Master of the Dad-joke art)
   - [ ] BJJ (Learning involuntary yoga)
-  
-
-See the [open issues](https://github.com/tomasp1189/repo_name/issues) for a full list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
 ## Contributing
 
-By no means do I believe I'm an expert in any of the areas described above and I pride myself on being big on self-improvement so I'm all about feedback. If you have any, good or bad, it's always welcome. Ideally it will come in the form of a video-call but direct messages are also valid.
+I don't claim to be an expert in any of the areas mentioned above, but I take great pride in my commitment to self-improvement. I'm always open to feedback, whether it's positive or constructive. Ideally, we could discuss it in a video call, but if you prefer, direct messages work just as well.
 
 1. Schedule a meeting.
 2. Lay it on me.
@@ -122,6 +121,6 @@ Personal website: [https://tomaspuricelli.com/](https://tomaspuricelli.com/)
 
 ## Acknowledgments
 
-- My parents, for breeding.
-- My kids, for turning me into a patience ninja.
-- Stoicism, for making me a stubbornly persistent champ.
+- My parents, for their adventurous act of creation.
+- My kids, for teaching me selflessness, for being mirrors in which I see myself, and for showing me I need to let go of things beyond my control.
+- Stoicism, for helping me understand the value of perseverance and perspective.
