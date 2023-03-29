@@ -70,26 +70,33 @@ I guess I've accumulated enough experience not only to be proficient in coding b
 - Recognizing that life happens in phases, I don't expect you to be at your peak performance 100% of the time.
 - My only expectation is that you give your best effort.
 - I strive to meet with my team members individually at least once a week for a sync, and I'm open to pairing sessions as often as needed, provided it doesn't hinder my ability to fulfill my responsibilities to other team members and the company.
-- I want you to enjoy your job as much as I do, this means that 
+- My goal is for you to enjoy your job, and I'll do my best to ensure you're satisfied with the work you're doing. That being said, I have blind spots, so I encourage you to make an effort to communicate your needs. I'll do my utmost to meet those needs, or at the very least, manage expectations and find a compromise that works for both of us.
+- I am not a dictator; decisions will be made collectively as a team, and we need to trust each person's expertise in their respective area.
+- As the team leader, I've got your back. We'll celebrate our successes together, and if things go south, I'll step up and handle the consequences.
 
 ### WEB3 Research and Development
 
-Life has blessed me, as I often feel it does, and i've been given the opportunity to lead the Web3 efforts in the company but by no means does this mean I'm the expert. This is what I currently spend most time coding.
+Life has blessed me once again, as it often does, by giving me the opportunity to lead the Web3 efforts within the company. While this doesn't make me an expert, it does mean that I'm currently dedicating most of my time to researching and coding in this area. Rest assured, I'll strive to achieve a high level of expertise in the process.
+
+Life has blessed me, as I often feel it does, and i've been given the opportunity to lead the Web3 efforts in the company. By no means does this make me an expert it simply means this is what I currently spend most time investigating and coding and I will strive to reach a level of expertise.
 
 ### Colleague
 
-I'm passionate about my work and enjoy seeing others passionate about theirs. If you need to bounce ideas off someone you'll find me to be a partner in crime.
-
-###
+I'm super passionate about my work and love seeing others fired up about theirs too. If you ever need to bounce ideas off someone, just know I'm always up for being your partner in crime.
 
 <!-- ROADMAP -->
 
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-  - [ ] Nested Feature
+- [ ] Professional
+  - [x] Senior Front End Engineer (Been there, done that!)
+  - [~] Team Lead (Climbing the ladder, still learning)
+  - [~] Web3 Engineer (The future is now, and I'm on it!)
+- [ ] Personal
+  - [~] Father (Master of the Dad-joke art)
+  - [~] BJJ (Learning involuntary yoga)
+  - [ ] 
+  
 
 See the [open issues](https://github.com/tomasp1189/repo_name/issues) for a full list of proposed features (and known issues).
 
@@ -106,7 +113,7 @@ By no means do I believe I'm an expert in any of the areas described above and I
 
 ## Contact
 
-Your Name - [@tomasp1189](https://twitter.com/@tomasp1189)
+Tomas Puricelli - [@tomasp1189](https://twitter.com/@tomasp1189)
 
 Project Link: [https://github.com/tomasp1189/personal-README](https://github.com/tomasp1189/personal-README)
 
@@ -116,6 +123,6 @@ Personal website: [https://tomaspuricelli.com/](https://tomaspuricelli.com/)
 
 ## Acknowledgments
 
-- []()
-- []()
-- []()
+- My parents, for breeding.
+- My kids, for turning me into a patience ninja.
+- Stoicism, for making me a stubbornly persistent champ.
