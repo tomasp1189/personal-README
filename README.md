@@ -10,9 +10,9 @@ I don't enjoy describing myself, I would much rather you get to know me by spend
 
 <img src="/img/me.jpeg" alt="Me" width="300px">
 
-I was born in Argentina and raised in Uruguay. Never really felt at home anywhere but I've always had a knack to adapt quickly. I currently live in Alicante, Spain.
+I was born in Argentina and raised in Uruguay. Never really felt at home anywhere but I've always had a knack to quickly adapt. I currently live in Alicante, Spain.
 
-I'd be hard pressed to choose a thing I love to do above others. Maybe its my ADHD, maybe I'm just very curious. Let's just say that I really love learning and trying new things.
+I'd be hard pressed to choose one thing I love to do above others. Maybe its my ADHD, maybe I'm just very curious. Let's just say that I really love learning and trying new things.
 
 Things I've tried and kept doing:
 
@@ -24,16 +24,16 @@ Things I've tried and kept doing:
 - Yoga
 - HIIT
 
-momI'm a father of two beautiful kids (you'll eventually see them pop in the middle of a meeting). I'm fully responsible for them (their mom lives in another country) so you'll notice that sometimes my availability is a bit hectic but I'm very flexible and I believe I make it work 👨‍👧‍👦.
+I'm a father of two beautiful kids (you'll eventually see them pop in the middle of a meeting). I'm fully responsible for them (their mom lives in another country) so you'll notice that sometimes my availability is a bit hectic but I'm very flexible and I try my best to make it work 👨‍👧‍👦.
 
 ### Built With
 
-- Sunny predesposition
+- Sunny disposition
 - Endless curiosity
 - Northern European XL Body
 - Latin American intensity
-- Fabulous hair
 - Low self-esteem
+- Fabulous hair
 - ADHD (Batteries included)
 
 <!-- GETTING STARTED -->
