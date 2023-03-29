@@ -90,12 +90,11 @@ I'm super passionate about my work and love seeing others fired up about theirs 
 
 - [ ] Professional
   - [x] Senior Front End Engineer (Been there, done that!)
-  - [~] Team Lead (Climbing the ladder, still learning)
-  - [~] Web3 Engineer (The future is now, and I'm on it!)
+  - [ ] Team Lead (Climbing the ladder, still learning)
+  - [ ] Web3 Engineer (The future is now, and I'm on it!)
 - [ ] Personal
-  - [~] Father (Master of the Dad-joke art)
-  - [~] BJJ (Learning involuntary yoga)
-  - [ ] 
+  - [ ] Father (Master of the Dad-joke art)
+  - [ ] BJJ (Learning involuntary yoga)
   
 
 See the [open issues](https://github.com/tomasp1189/repo_name/issues) for a full list of proposed features (and known issues).
