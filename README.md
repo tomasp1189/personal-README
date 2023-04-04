@@ -70,6 +70,7 @@ I guess I've accumulated enough experience not only to be proficient in coding b
 - As someone who dislikes being micro-managed, I avoid doing it to others.
 - Recognizing that life happens in phases, I don't expect you to be at your peak performance 100% of the time.
 - My only expectation is that you give your best effort.
+- Pair Programming is my favourite collaboration tool.
 - I strive to meet with my team members individually at least once a week for a sync, and I'm open to pairing sessions as often as needed, provided it doesn't hinder my ability to fulfill my responsibilities to other team members and the company.
 - My goal is for you to enjoy your job, and I'll do my best to ensure you're satisfied with the work you're doing. That being said, I have blind spots, so I encourage you to make an effort to communicate your needs. I'll do my utmost to meet those needs, or at the very least, manage expectations and find a compromise that works for both of us.
 - Decisions are made collectively as a team, and we need to trust each person's expertise in their respective area – I'm not a dictator.
